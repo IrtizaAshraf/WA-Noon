@@ -1,0 +1,135 @@
+.search{
+    width: 600px;
+    height: 34px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    border-color: aliceblue;
+}
+.button{
+    background-color: #f7cc0ebd;
+    border: #e6bd08;
+    padding: 2px 5px;
+}
+.container{
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    padding-left: 5%;
+   
+}
+.main-container{
+    background-color: rgb(228, 234, 240);
+}
+.banner{
+    width: 800px;
+    height: 210px;
+}
+,.banner2{
+    width: 180px;
+    height: 210px;
+    display: inline-flex;
+}
+.box1-all{
+    position: relative;
+    background: rgb(255, 240, 190);
+    flex: 1 1 0%;
+    min-width: 0px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.box-shop{
+    position: relative;
+    margin-right: 1%;
+    width: 26%;
+    background-color: rgb(255, 255, 255);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left:1% ;
+    width: 346.06px;
+    height: 410.77px;
+}
+.box-shop1{
+    position: relative;
+    margin-right: 1%;
+    width: 26%;
+    background-color: #fcf49c;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left:1% ;
+    width: 346.06px;
+    height: 410.77px;
+
+}
+.box-former{
+    position: relative;
+    
+    background-color: rgb(241, 244, 253);
+    width: 100%;
+}
+
+.box-former1{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+}
+
+.box-former2{
+    position: relative;
+    background-color: rgb(170, 170, 170);
+    width: 100%;
+}
+
+.box-fordeal{
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    color: rgb(64, 69, 83);
+    padding: 15px;
+    position: relative;
+    width: 260px;
+    height: 400px;
+    border-radius: 10px;
+}
+.box-fordea2{
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    color: rgb(64, 69, 83);
+    padding: 15px;
+    position: relative;
+    width: 260px;
+    height: 400px;
+    border-radius: 10px;
+}
+
+.best{
+    background-color: rgb(60, 64, 68);
+    color: azure;
+    width: 100px;
+    height: 24px;
+    border-radius: 20px;
+   
+}
+p{
+    margin-top: 8px;
+}
+.school-box{
+    position: relative;
+    padding: 15px;
+    background-color: rgb(255, 228, 138);
+    width: 100%;   
+}
+
+.deal-1{
+    position: relative;
+    padding: 15px;
+    background-color: rgb(208, 232, 255);
+    width: 100%;
+    -webkit-overflow-style:  none;
+}
+
+.view{
+    border: 1px solid black;
+    padding: 10px 20px;
+    margin: 10px;
+    margin-left: 120px;
+    justify-items: end;background-color: white;
+    
+}
