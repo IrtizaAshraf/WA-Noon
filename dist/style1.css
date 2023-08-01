@@ -133,3 +133,6 @@ p{
     justify-items: end;background-color: white;
     
 }
+.border{
+    border: 1px solid black;
+}
